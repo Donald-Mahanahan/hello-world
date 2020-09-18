@@ -1,2 +1,4 @@
 # hello-world
-Just anothe reposit
+Just anothe repository
+
+I just made a repository!
